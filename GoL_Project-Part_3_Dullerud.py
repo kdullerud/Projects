@@ -1,5 +1,6 @@
 
-# Game of Life Part 2, Kathryn Dullerud, CIS 012
+# Project Assignment by Zareh Gorjian
+# Game of Life, Kathryn Dullerud, CIS 012
 
 import random
 
