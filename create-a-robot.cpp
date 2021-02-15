@@ -1,6 +1,7 @@
 //
 //  main.cpp
-//  project 7
+//  project 7 for CSC 123
+//  project assignment by Prof. Keith Urban
 //
 //  Created by Kathryn Dullerud on 8/6/19.
 //  Copyright © 2019 Kathryn Dullerud. All rights reserved.
